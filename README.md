@@ -11,9 +11,9 @@ What this command interpreter does:
 # Table of Content
 1. [Environment](#Environment)
 2. [Installation](#Installation)
-3. [File Description](#FileDescription)
+3. [File Description](#File-Description)
 4. [Usage](#Usage)
-5. [Examples of Use](#ExamplesofUse)
+5. [Examples of Use](#Examples-of-Use)
 6. [Bugs](#Bugs)
 7. [Authors](#Authors)
 8. [License](#License)
