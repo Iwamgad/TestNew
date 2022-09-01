@@ -31,4 +31,8 @@ What this command interpreter does:
 # Examples of Use
 # Bugs
 # Authors
-# Licene
+|Name | Github Account|
+|-----|-------|
+|Dagmawi Andualem|[Github](https://github.com/Iwamgad)|
+|Tsion Zerihun|[Github](https://github.com/Iwamgad)|
+# License
